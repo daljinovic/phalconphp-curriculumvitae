@@ -1,4 +1,4 @@
-# phalconphp-curriculumvitae
+# PhalconPHP - CV platform
 CV creation and search platform oriented towards students and employers.
 
 Application based on PhalconPHP 3.1.2 ([https://phalconphp.com/en/](https://phalconphp.com/en/)) and PHP 5.6.
@@ -53,7 +53,7 @@ In case you change the folder name, you must change the BaseURI inside index.php
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
 
 ## Conclusion
